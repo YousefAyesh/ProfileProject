@@ -7,3 +7,15 @@
 // 3) cd into that project
 // 4) git clone https://github.com/YousefAyesh/ProfileProject.git
 // 5) prompt for username and password (classic token)
+
+
+
+// Workflow
+// make changes
+// git status
+// git add -A
+// git status
+// git commit -m "MESSAGE"
+// git status
+// git push
+// should be successful - if error, google :)
